@@ -1,2 +1,3 @@
-# 100-C-U-N-T-P-HSG-TIN-C-P-THCS
-Luồng tư duy và cách code của các bài thi HSG TIN cấp THCS
+# 100 câu hỏi luyện tập thi HSG tin cấp THCS
+- Ngôn ngữ sử dụng C++.
+- Trong mỗi 1 thư mục bài làm sẽ có file README.md để bóc tách và phân tích bài toán.
